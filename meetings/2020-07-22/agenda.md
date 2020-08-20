@@ -18,4 +18,4 @@
 
 ## Next Meeting
 
-August 19th, 2020
+August 26th, 2020
