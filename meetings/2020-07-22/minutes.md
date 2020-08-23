@@ -26,7 +26,7 @@
 1. Status Report: 
     * RSocket-Java: 
         * Ongoing refactoring on the infrastructure/internals.
-        * New interface - `RSocketClient`. `RSocket` is the interface, but now we have `RSocketClient` and accept `Mono`/`Flux` as input. That makes `ByteBuf` pooling easier, and works like a `WebClient`/`HttpClient` and replaces `Mono<RSocket`> with `RSocketClient`. Shared state.
+        * New interface - `RSocketClient`. `RSocket` is the interface, but now we have `RSocketClient` and accept `Mono`/`Flux` as input. That makes `ByteBuf` pooling easier, and works like a `WebClient`/`HttpClient` and replaces `Mono<RSocket>` with `RSocketClient`. Shared state.
         * ***TODO***: Needs to verify if other language bindings can use this approach.
     * RSocket-Cpp:
         * Project is not actively maintained
