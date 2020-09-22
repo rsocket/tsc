@@ -1,4 +1,4 @@
-# Me eting Minutes - RSocket TSC
+# Meeting Minutes - RSocket TSC
 
 **Location**: Virtual Zoom
 
