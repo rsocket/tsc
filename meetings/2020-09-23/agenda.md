@@ -4,10 +4,13 @@
 
 **Location**: Virtual Zoom
 
+
+## Agenda Items
+
 * Call to Order
 * Approval of the Agenda
 * RSocket State Report:
-    * Implementations Report
+    * Implementations Report 
 * Docs & New: 
     * Volateers for an interview (Podcast Record + Transcription)
 * RSocket Spec:
@@ -20,4 +23,4 @@
 
 ## Next Meeting
 
-October 28th, 2020
+December 2nd, 2020
