@@ -1,6 +1,6 @@
 ## Agenda
 
-**Date**: December 2, 2020
+**Date**: January 6th, 2021
 
 **Location**: Virtual Zoom
 
@@ -12,12 +12,10 @@
 * RSocket State Report:
     * Implementations Report
 * RSocket API:
-    * `RequestChannel(Payload, Publisher<Payload>)` vs `RequestChannel(Publisher<Payload>)`
     * Extention API (negotiation, phase for negotiation, etc)
 * RSocket Spec:
     * Ressumability 2.0: Should we use it for Streams only
-    * ErrorPayload updates
 
 ## Next Meeting
 
-January 6th, 2021
+January 27th, 2021

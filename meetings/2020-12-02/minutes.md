@@ -50,7 +50,7 @@ Oleg Yukhnevich
     * Extention API (negotiation, phase for negotiation, etc) (postponed to the next meeting) ➡️
 * RSocket Spec:
     * ErrorPayload updates
-        * The idea is to add 
+        * may lead to mem-leaks if one is not going to release ByteBuf
         * *TODO for Rossen* to look at https://github.com/rsocket/rsocket/issues/282
     * Ressumability 2.0: Should we use it for Streams only (postponed to the next meeting)=
     * GraphQL
