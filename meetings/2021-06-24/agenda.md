@@ -10,7 +10,9 @@
 * Call to Order
 * Approval of the Agenda
 * Implementations and board updates
+* Common Routing Mechanism for RSocket
+* Common base for RSocket over Protobuf-RPC 
 
 ## Next Meeting
 
-June 24, 2021
+July 28, 2021
