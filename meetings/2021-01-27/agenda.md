@@ -14,9 +14,9 @@
     * implementations state
 * RSocket Spec 
     * 1.0 Approval
-    * Extention API (negotiation, phase for negotiation, etc)
+    * Extention API
     * Ressumability 2.0: Should we use it for Streams only
 
 ## Next Meeting
 
-February 24th, 2021
+March 24th, 2021
